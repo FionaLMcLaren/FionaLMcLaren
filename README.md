@@ -5,7 +5,7 @@ creative solutions.
 
 
 🔭 I’m currently working on ...
-* [pictoment](https://pages.github.com/) : A simple pixel art maker reminiscent of old internet vibes
+* [pictoment](https://pages.github.com/) : A simple pixel art maker echoing old internet vibes
 * [timetable-website](https://github.com/matthewduffy33/Timetable-Website) : Developing the frontend for a university timetabler which will help students organise their classes
 
 🌱 I’m currently learning ...
