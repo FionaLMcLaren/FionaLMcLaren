@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Fiona!
-I am a computer science graduate from Strathcylde, and currently junior support engineer at FreeAgent!
+I am a computer science graduate from Strathcylde, and currently a junior support engineer at FreeAgent!
 My goal as a developer is to be someone who can help and unite others through creative solutions.
 
 ---
